@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning visual basic, c++, godot languaje, ect
 - 💞️ I’m looking to collaborate on my project schoolwork-public 
--   > link : 
+-   > link : https://github.com/GabrielMax-1/schoolwork-public
 - 📫 my e-mail (only for collaborations) : gabash2019@gmail.com
 - im colombian :D, i'm learning english XD
 
