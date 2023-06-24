@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielMax-1 
 - 👀 I’m interested in everything of technology 
-- 🌱 I’m currently learning JS
-- 🎮 I'm making a game
+- 🌱 I’m currently learning C#
+- 🎮 I'm Working in the Musgo Project
 - 🕹 I know HTML, Python, VB.net & GDScript 
 - 🔨 I'm working in "SDKGarden Godot (DevGarden)" 
 -   > link : https://github.com/GabrielMax-1/DevGarden30
