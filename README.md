@@ -1,17 +1,13 @@
 - 👋 Hi, I’m @GabrielMax-1 
 - 👀 I’m interested in everything of technology 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning how to make a game without die in the attempt
 - 🎮 I'm Working in the Musgo Project
-- 🕹 I know HTML, Python, VB.net & GDScript 
+- 🕹 I know a lot of languages: C++, C#, C, ASM, VBNET, GDSCRIPT, PYTHON, JAVA, JS, ETC.
 - 🔨 I'm working in "SDKGarden Godot (DevGarden)" 
--   > link : https://github.com/GabrielMax-1/DevGarden30
-- 📫 my e-mail: gabash2019@gmail.com
 - im colombian :D, i'm learning english XD
-- --------------------------------------------------
-- ¡ SDKGarden Godot 3.0 Beta is here ! https://github.com/GabrielMax-1/DevGarden30/releases/
 - --------------------------------------------------
 <!---
 GabrielMax-1/GabrielMax-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--- Si ves esto es gey perro sapo ijuepu --->
+<!--- Si ves esto eres gey perro sapo hijuepu --->
